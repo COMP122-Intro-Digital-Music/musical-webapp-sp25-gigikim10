@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "name": "Chatter",
+    "file": "samples/chatter.mp3",
+    "bpm": 120,
+    "loop": "4m",
+    "grain": 0.04,
+    "overlap": 0.01
+  },
+  {
+    "name": "elevator",
+    "file": "samples/elevator.mp3",
+    "bpm": 120,
+    "loop": "1m",
+    "grain": 0.04,
+    "overlap": 0.01
+  },
+  {
+    "name": "typing",
+    "file": "samples/typing.mp3",
+    "bpm": 120,
+    "loop": "1m",
+    "grain": 0.04,
+    "overlap": 0.01
+  }
+]
